@@ -69,6 +69,7 @@ const Container = styled.View`
   justify-content: space-between;
   align-items: flex-start;
   padding: 50px 50px 30px 50px;
+  z-index: 2;
 `;
 
 // Header
@@ -88,10 +89,12 @@ const Logo = styled.Image`
 `;
 
 const Title = styled.Text`
-  font-size: 50px;
+  font-size: 60px;
   color: #fff;
   font-family: 'SF-Pro-Rounded-Black';
   text-align: left;
+  line-height: 50px;
+  padding-top: 40px;
 `;
 
 const GradientLayerBackground = styled(LinearGradient)`
@@ -99,7 +102,8 @@ const GradientLayerBackground = styled(LinearGradient)`
   width: 100%;
   position: absolute;
   z-index: 1;
-  bottom: 15%;
+  bottom: 5%;
+  z-index: 1;
 `;
 
 // Girl Image
