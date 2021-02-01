@@ -18,6 +18,9 @@
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		16A2DBA1EBE64591A3654FE9 /* SF-Pro-Rounded-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BEF3370BC7F04966B87EE7E8 /* SF-Pro-Rounded-Black.ttf */; };
 		727A3A0B11A84C54A7959F8D /* SFProText-Regular-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6DD589CF7A7E4710AC54B4DD /* SFProText-Regular-1.ttf */; };
+		9F14572C795A488CBB536EB6 /* Changa-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76F3F0ED6D864DFEA23871EF /* Changa-ExtraBold.ttf */; };
+		EF88C40DBCF74ABD9AA597AE /* SF-Pro-Rounded-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BF72946A03E49829C298F53 /* SF-Pro-Rounded-Black.ttf */; };
+		69F5C4ECAA4E439A8D105D2D /* SFProText-Regular-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3E45C0DFCE4E4B81AE9AA4D2 /* SFProText-Regular-1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +58,9 @@
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		BEF3370BC7F04966B87EE7E8 /* SF-Pro-Rounded-Black.ttf */ = {isa = PBXFileReference; name = "SF-Pro-Rounded-Black.ttf"; path = "../firstChallenge/assets/fonts/SF-Pro-Rounded-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		6DD589CF7A7E4710AC54B4DD /* SFProText-Regular-1.ttf */ = {isa = PBXFileReference; name = "SFProText-Regular-1.ttf"; path = "../firstChallenge/assets/fonts/SFProText-Regular-1.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		76F3F0ED6D864DFEA23871EF /* Changa-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Changa-ExtraBold.ttf"; path = "../assets/fonts/Changa-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8BF72946A03E49829C298F53 /* SF-Pro-Rounded-Black.ttf */ = {isa = PBXFileReference; name = "SF-Pro-Rounded-Black.ttf"; path = "../src/firstChallenge/assets/fonts/SF-Pro-Rounded-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3E45C0DFCE4E4B81AE9AA4D2 /* SFProText-Regular-1.ttf */ = {isa = PBXFileReference; name = "SFProText-Regular-1.ttf"; path = "../src/firstChallenge/assets/fonts/SFProText-Regular-1.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +173,9 @@
 			children = (
 				BEF3370BC7F04966B87EE7E8 /* SF-Pro-Rounded-Black.ttf */,
 				6DD589CF7A7E4710AC54B4DD /* SFProText-Regular-1.ttf */,
+				76F3F0ED6D864DFEA23871EF /* Changa-ExtraBold.ttf */,
+				8BF72946A03E49829C298F53 /* SF-Pro-Rounded-Black.ttf */,
+				3E45C0DFCE4E4B81AE9AA4D2 /* SFProText-Regular-1.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -312,6 +321,9 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				16A2DBA1EBE64591A3654FE9 /* SF-Pro-Rounded-Black.ttf in Resources */,
 				727A3A0B11A84C54A7959F8D /* SFProText-Regular-1.ttf in Resources */,
+				9F14572C795A488CBB536EB6 /* Changa-ExtraBold.ttf in Resources */,
+				EF88C40DBCF74ABD9AA597AE /* SF-Pro-Rounded-Black.ttf in Resources */,
+				69F5C4ECAA4E439A8D105D2D /* SFProText-Regular-1.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
