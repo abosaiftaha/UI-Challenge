@@ -1,7 +1,7 @@
 import * as React from 'react';
-import styled from 'styled-components/native';
-import LinearGradient from 'react-native-linear-gradient';
 import {ImageRequireSource, StatusBar, View} from 'react-native';
+import LinearGradient from 'react-native-linear-gradient';
+import styled from 'styled-components/native';
 
 const girlImage = require('./assets/images/toyFaces_girl.png') as ImageRequireSource;
 const boyImage = require('./assets/images/toyFaces_boy.png') as ImageRequireSource;
