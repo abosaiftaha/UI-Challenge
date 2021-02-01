@@ -1,10 +1,26 @@
 import React from 'react';
-import FirstChallenge from './firstChallenge';
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
+// Routes
+import Home from './src/Home';
+import FirstChallenge from './src/firstChallenge';
 
-declare const global: {HermesInternal: null | {}};
+const Stack = createStackNavigator();
 
 const App = () => {
-  return <FirstChallenge />;
+  return (
+    <NavigationContainer>
+      <Stack.Navigator
+        initialRouteName="home"
+        screenOptions={{
+          headerShown: false,
+          headerTitleAlign: 'center',
+        }}>
+        <Stack.Screen name="home" component={Home} />
+        <Stack.Screen name="first" component={FirstChallenge} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
 };
 
 export default App;
