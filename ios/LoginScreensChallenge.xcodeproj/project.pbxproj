@@ -21,6 +21,7 @@
 		9F14572C795A488CBB536EB6 /* Changa-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76F3F0ED6D864DFEA23871EF /* Changa-ExtraBold.ttf */; };
 		EF88C40DBCF74ABD9AA597AE /* SF-Pro-Rounded-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BF72946A03E49829C298F53 /* SF-Pro-Rounded-Black.ttf */; };
 		69F5C4ECAA4E439A8D105D2D /* SFProText-Regular-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3E45C0DFCE4E4B81AE9AA4D2 /* SFProText-Regular-1.ttf */; };
+		F0410A6757BB4BFEAEF91175 /* ChakraPetch-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 25C4CCFCE0EC490B8CE81727 /* ChakraPetch-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,8 @@
 		76F3F0ED6D864DFEA23871EF /* Changa-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Changa-ExtraBold.ttf"; path = "../assets/fonts/Changa-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		8BF72946A03E49829C298F53 /* SF-Pro-Rounded-Black.ttf */ = {isa = PBXFileReference; name = "SF-Pro-Rounded-Black.ttf"; path = "../src/firstChallenge/assets/fonts/SF-Pro-Rounded-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		3E45C0DFCE4E4B81AE9AA4D2 /* SFProText-Regular-1.ttf */ = {isa = PBXFileReference; name = "SFProText-Regular-1.ttf"; path = "../src/firstChallenge/assets/fonts/SFProText-Regular-1.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		76964EF0A38D4AD7BC6B5463 /* Changa-Light.ttf */ = {isa = PBXFileReference; name = "Changa-Light.ttf"; path = "../assets/fonts/Changa-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		25C4CCFCE0EC490B8CE81727 /* ChakraPetch-Regular.ttf */ = {isa = PBXFileReference; name = "ChakraPetch-Regular.ttf"; path = "../assets/fonts/ChakraPetch-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +179,8 @@
 				76F3F0ED6D864DFEA23871EF /* Changa-ExtraBold.ttf */,
 				8BF72946A03E49829C298F53 /* SF-Pro-Rounded-Black.ttf */,
 				3E45C0DFCE4E4B81AE9AA4D2 /* SFProText-Regular-1.ttf */,
+				76964EF0A38D4AD7BC6B5463 /* Changa-Light.ttf */,
+				25C4CCFCE0EC490B8CE81727 /* ChakraPetch-Regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -324,6 +329,8 @@
 				9F14572C795A488CBB536EB6 /* Changa-ExtraBold.ttf in Resources */,
 				EF88C40DBCF74ABD9AA597AE /* SF-Pro-Rounded-Black.ttf in Resources */,
 				69F5C4ECAA4E439A8D105D2D /* SFProText-Regular-1.ttf in Resources */,
+				012D253C9D0542C4910D92A7 /* Changa-Light.ttf in Resources */,
+				F0410A6757BB4BFEAEF91175 /* ChakraPetch-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
